@@ -1,0 +1,27 @@
+[
+  
+  {
+    "Sources": [
+      {
+        "SourceType": "External",
+        "SourceName": "Google",
+        "Registered": "0"
+      },
+      {
+        "SourceType": "External",
+        "SourceName": "PTI",
+        "Registered": null
+      },
+      {
+        "SourceType": "External",
+        "SourceName": "TOI",
+        "Registered": "1"
+      },
+      {
+        "SourceType": "External",
+        "SourceName": "ET",
+        "Registered": "0"
+      }
+    ]
+  }
+]

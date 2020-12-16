@@ -1,0 +1,28 @@
+Use fiddler to test the following 
+
+GetNewsFeedSources //Fetches data from source master json file 
+-HttpGet
+Header : Content-Type : application/json
+Url:https://localhost:44396/api/NewsFeed/GetNewsFeedSources
+
+-RegisterSource  //Method updates the source master json file 
+-HttpPost
+Url:https://localhost:44396/api/NewsFeed/RegisterSource
+Header : Content-Type : application/json
+Body: {
+ SourceType:"Internal",
+ SourceName:"Zee Media",
+ Registered:"1"
+
+}
+
+-GetNewsBasedOnCategory ////Fetches data for external/internal source based on categoryName and SoruceType,SourceName passed in the body
+Url :https://localhost:44396/api/NewsFeed/GetSourceDetail?categoryName=Headlines
+Header : Content-Type : application/json
+HttpPost
+Body: {
+ SourceType:"Internal",
+ SourceName:"InternalAgency",
+ Registered:"1"
+
+}

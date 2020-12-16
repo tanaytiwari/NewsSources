@@ -1,0 +1,29 @@
+{
+  "Category": "Headlines",
+  "PubDate": "Sun, 19 Jul 2020 18:00:01 +0530",
+  "SourceType": "External",
+  "SourceName": "RSS feed for Times of India",
+  "NewsItem": [
+    {
+      "Title": "Seven Indian pharma players race to develop Covid-19 vaccine | India News - Times of India",
+      "Link": "http://timesofindia.indiatimes.com/india/seven-indian-pharma-players-race-to-develop-covid-19-vaccine/articleshow/77050694.cms",
+      "Description": "Seven Indian pharma players race to develop Covid-19 vaccine | India News - Times of India",
+      "Guid": "http://timesofindia.indiatimes.com/india/seven-indian-pharma-players-race-to-develop-covid-19-vaccine/articleshow/77050694.cms",
+      "PubDate": "Tue, 01 Mar 2016 14:15:09 IST"
+    },
+    {
+      "Title": "IAF brass to discuss rapid Rafale deployment",
+      "Link": "http://timesofindia.indiatimes.com/india/top-iaf-brass-to-meet-to-discuss-china-border-situation-rapid-rafale-deployment-this-week/articleshow/77048697.cms",
+      "Description": "IAF brass to discuss rapid Rafale deployment",
+      "Guid": "http://timesofindia.indiatimes.com/india/top-iaf-brass-to-meet-to-discuss-china-border-situation-rapid-rafale-deployment-this-week/articleshow/77048697.cms",
+      "PubDate": "Tue, 01 Mar 2016 14:15:09 IST"
+    },
+    {
+      "Title": "How China made inroads into India's power sector",
+      "Link": "http://timesofindia.indiatimes.com/business/india-business/chinese-cos-made-inroads-into-indias-td-networks-since-2016/articleshow/77043830.cms",
+      "Description": "How China made inroads into India's power sector",
+      "Guid": "http://timesofindia.indiatimes.com/business/india-business/chinese-cos-made-inroads-into-indias-td-networks-since-2016/articleshow/77043830.cms",
+      "PubDate": "Tue, 01 Mar 2016 14:15:09 IST"
+    }
+  ]
+}
